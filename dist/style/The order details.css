@@ -1,0 +1,394 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+header {
+  width: 6.40rem;
+  height: 0.88rem;
+  background-color: #50bbdb;
+}
+header .yuan {
+  width: 0.43rem;
+  height: 0.43rem;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  position: absolute;
+  top: 0.23rem;
+  left: 0.45rem;
+}
+header .yuan .xiaoyu {
+  height: 0.2rem;
+  width: 0.2rem;
+  border-left: 2px solid #fff;
+  border-top: 2px solid #fff;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  position: relative;
+  left: 0.15rem;
+  top: 0.08rem;
+}
+header .h-top {
+  color: #fff;
+  font-size: 0.28rem;
+  font-family: [STHeitiSC];
+  text-align: center;
+  line-height: 0.88rem;
+}
+header .pic1 {
+  width: 0.52rem;
+  height: 0.39rem;
+  position: absolute;
+  top: 0.23rem;
+  right: 0.21rem;
+}
+section {
+  height: 15.72rem;
+  width: 6.40rem;
+}
+section article {
+  width: 6.40rem;
+  height: 1.07rem;
+  padding-top: 0.20rem;
+}
+section article p {
+  font-size: 0.24rem;
+  font-family: [STHeitiSC];
+  width: 5.27rem;
+  margin-left: 0.05rem;
+  display: block;
+  float: left;
+}
+section article .p1 {
+  margin-top: 0.24rem;
+}
+section article .dayu {
+  width: 0.13rem;
+  height: 0.25rem;
+  display: block;
+  float: right;
+  position: relative;
+  top: 0.24rem;
+  right: 0.24rem;
+}
+section aside {
+  width: 6.40rem;
+  height: 14.65rem;
+}
+section aside .a-1 {
+  width: 6.40rem;
+  height: 3.90rem;
+  border-top: 1px solid #dcdcdc;
+}
+section aside .a-1 .xian {
+  width: 0.04rem;
+  height: 0.27rem;
+  background-color: #50bbdb;
+  position: relative;
+  top: 0.25rem;
+  left: 0.28rem;
+  float: left;
+}
+section aside .a-1 .wen1 {
+  position: relative;
+  left: 0.49rem;
+  top: 0.18rem;
+  width: 6rem;
+}
+section aside .a-1 .wen1 ul {
+  widht: 6rem;
+}
+section aside .a-1 .wen1 ul li {
+  height: 0.44rem;
+  width: 6rem;
+  line-height: 0.44rem;
+  font-size: 0.20rem;
+  font-family: [STHeitiSC];
+  list-style: none;
+}
+section aside .a-1 .wen1 ul .list-1 {
+  width: 5rem;
+  font-size: 0.24rem;
+  font-weight: bolder;
+}
+section aside .a-2 {
+  width: 6.40rem;
+  height: 1.09rem;
+  border-top: 1px solid #dcdcdc;
+}
+section aside .a-2 .xian {
+  width: 0.04rem;
+  height: 0.27rem;
+  background-color: #50bbdb;
+  position: relative;
+  top: 0.25rem;
+  left: 0.28rem;
+  float: left;
+}
+section aside .a-2 .wen2 {
+  position: relative;
+  top: 0.28rem;
+  left: 0.49rem;
+}
+section aside .a-2 .wen2 ul {
+  margin-top: 0.12rem;
+}
+section aside .a-2 .wen2 ul li {
+  font-size: 0.20rem;
+  font-family: [STHeitiSC];
+  float: left;
+  width: 1.25rem;
+  height: 0.44rem;
+  line-height: 0.44rem;
+  list-style: none;
+}
+section aside .a-2 .p2 {
+  display: block;
+  width: 2rem;
+  font-size: 0.24rem;
+  font-weight: bolder;
+  font-family: [STHeitiSC];
+}
+section aside .a-3 {
+  width: 6.40rem;
+  height: 1.09rem;
+  border-top: 1px solid #dcdcdc;
+}
+section aside .a-3 .k1 {
+  width: 6.40rem;
+  height: 0.44rem;
+}
+section aside .a-3 .k1 .list-1 {
+  margin-left: 3.0rem;
+}
+section aside .a-3 .k1 .list-1 li {
+  width: 1.25rem;
+  height: 0.44rem;
+  font-size: 0.20rem;
+  font-family: [STHeitiSC];
+  line-height: 0.44rem;
+  float: left;
+  list-style: none;
+}
+section aside .a-3 .k2 {
+  width: 6.40rem;
+  height: 0.44rem;
+}
+section aside .a-3 .k2 .list-2 {
+  margin-left: 3.0rem;
+}
+section aside .a-3 .k2 .list-2 li {
+  width: 1.25rem;
+  height: 0.44rem;
+  font-size: 0.20rem;
+  font-family: [STHeitiSC];
+  line-height: 0.44rem;
+  float: left;
+  list-style: none;
+}
+section aside .a-4 {
+  width: 6.40rem;
+  height: 2.14rem;
+  border-top: 1px solid #dcdcdc;
+}
+section aside .a-4 .xian {
+  width: 0.04rem;
+  height: 0.27rem;
+  background-color: #50bbdb;
+  position: relative;
+  top: 0.25rem;
+  left: 0.28rem;
+  float: left;
+}
+section aside .a-4 .wen1 {
+  position: relative;
+  top: 0.18rem;
+  left: 0.49rem;
+  float: left;
+}
+section aside .a-4 .wen1 .list li {
+  font-size: 0.20rem;
+  font-family: [STHeitiSC];
+  width: 3.38rem;
+  height: 0.44rem;
+  line-height: 0.44rem;
+  list-style: none;
+}
+section aside .a-4 .wen1 .list .p1 {
+  font-weight: bolder;
+  font-size: 0.24rem;
+}
+section aside .a-4 .wen2 {
+  position: relative;
+  top: 0.6rem;
+  right: 0.48rem;
+  width: 0.33rem;
+  height: 2.14rem;
+  float: right;
+}
+section aside .a-4 .wen2 ul li {
+  font-size: 0.20rem;
+  font-family: [STHeitiSC];
+  width: 0.33rem;
+  height: 0.44rem;
+  line-height: 0.44rem;
+  list-style: none;
+}
+section aside .a-5 {
+  width: 6.40rem;
+  height: 2.19rem;
+  border-top: 1px solid #dcdcdc;
+}
+section aside .a-5 .xian {
+  width: 0.04rem;
+  height: 0.27rem;
+  background-color: #50bbdb;
+  position: relative;
+  top: 0.25rem;
+  left: 0.28rem;
+  float: left;
+}
+section aside .a-5 .k1 {
+  wdith: 1.30rem;
+  float: left;
+}
+section aside .a-5 .k1 ul {
+  position: relative;
+  top: 0.2rem;
+  left: 0.49rem;
+}
+section aside .a-5 .k1 ul li {
+  width: 1.30rem;
+  font-size: 0.20rem;
+  font-family: [STHeitiSC];
+  height: 0.44rem;
+  line-height: 0.44rem;
+  list-style: none;
+}
+section aside .a-5 .k1 ul .h1 {
+  font-weight: bolder;
+  font-size: 0.24rem;
+}
+section aside .a-5 .k2 {
+  position: relative;
+  top: 0.65rem;
+  left: -0.25rem;
+}
+section aside .a-5 .k2 ul {
+  text-align: left;
+}
+section aside .a-5 .k2 ul li {
+  width: 4rem;
+  font-size: 0.20rem;
+  font-family: [STHeitiSC];
+  height: 0.44rem;
+  line-height: 0.44rem;
+  list-style: none;
+}
+section aside .a-6 {
+  width: 6.40rem;
+  height: 3.77rem;
+  border-top: 1px solid #dcdcdc;
+  border-bottom: 1px solid #dcdcdc;
+}
+section aside .a-6 .xian {
+  width: 0.04rem;
+  height: 0.27rem;
+  background-color: #50bbdb;
+  position: relative;
+  top: 0.25rem;
+  left: 0.28rem;
+  float: left;
+}
+section aside .a-6 .k1 {
+  wdith: 1.30rem;
+  float: left;
+}
+section aside .a-6 .k1 ul {
+  position: relative;
+  top: 0.2rem;
+  left: 0.49rem;
+}
+section aside .a-6 .k1 ul li {
+  width: 1.30rem;
+  font-size: 0.20rem;
+  font-family: [STHeitiSC];
+  height: 0.44rem;
+  line-height: 0.44rem;
+  list-style: none;
+}
+section aside .a-6 .k1 ul .h1 {
+  font-weight: bolder;
+  font-size: 0.24rem;
+}
+section aside .a-6 .k2 {
+  position: relative;
+  top: 0.65rem;
+}
+section aside .a-6 .k2 ul {
+  text-align: left;
+}
+section aside .a-6 .k2 ul li {
+  width: 4rem;
+  font-size: 0.20rem;
+  font-family: [STHeitiSC];
+  height: 0.44rem;
+  line-height: 0.44rem;
+  list-style: none;
+}
+section aside .a-6 .k2 ul .xing {
+  position: relative;
+  left: -0.25rem;
+}
+section aside .a-6 .xian2 {
+  position: relative;
+  top: 0.7rem;
+  width: 5.38rem;
+  height: 1px;
+  background-color: #dcdcdc;
+  margin: 0 auto;
+}
+section aside .a-6 .k3 {
+  wdith: 1.30rem;
+  float: left;
+  position: relative;
+  left: -1.3rem;
+}
+section aside .a-6 .k3 ul {
+  position: relative;
+  top: 0.8rem;
+  left: 0.49rem;
+}
+section aside .a-6 .k3 ul li {
+  width: 1.30rem;
+  font-size: 0.20rem;
+  font-family: [STHeitiSC];
+  height: 0.44rem;
+  line-height: 0.44rem;
+  list-style: none;
+}
+section aside .a-6 .k3 ul .h1 {
+  font-weight: bolder;
+  font-size: 0.24rem;
+}
+section aside .a-6 .k4 {
+  position: relative;
+  top: 0.8rem;
+  left: -1.25rem;
+}
+section aside .a-6 .k4 ul {
+  text-align: left;
+}
+section aside .a-6 .k4 ul li {
+  width: 4rem;
+  font-size: 0.20rem;
+  font-family: [STHeitiSC];
+  height: 0.44rem;
+  line-height: 0.44rem;
+  list-style: none;
+}
+section aside .a-6 .k4 ul .xing {
+  position: relative;
+  left: -0.25rem;
+}

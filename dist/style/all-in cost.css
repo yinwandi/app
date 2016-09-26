@@ -1,0 +1,563 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+header {
+  width: 6.40rem;
+  height: 1.88rem;
+}
+header .top {
+  width: 6.40rem;
+  height: 0.88rem;
+  background-color: #50bbdb;
+}
+header .top .yuan {
+  width: 0.43rem;
+  height: 0.43rem;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  position: absolute;
+  top: 0.23rem;
+  left: 0.45rem;
+}
+header .top .yuan .xiaoyu {
+  height: 0.2rem;
+  width: 0.2rem;
+  border-left: 2px solid #fff;
+  border-top: 2px solid #fff;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  position: relative;
+  left: 0.15rem;
+  top: 0.08rem;
+}
+header .top .h-top {
+  color: #fff;
+  font-size: 0.28rem;
+  font-family: [STHeitiSC];
+  text-align: center;
+  line-height: 0.88rem;
+}
+header .top img {
+  width: 0.37rem;
+  height: 0.41rem;
+  position: absolute;
+  top: 0.23rem;
+  right: 0.45rem;
+}
+header .k1 {
+  background-color: #fff;
+  width: 6.40rem;
+  height: 1rem;
+}
+header .k1 p {
+  width: 5.8rem;
+  display: block;
+  font-size: 0.24rem;
+  font-family: [STHeitiSC];
+  line-height: 0.48rem;
+  padding-left: 0.15rem;
+}
+section {
+  width: 6.40rem;
+  height: 15.48rem;
+  background-color: #ededed;
+}
+section .a-1 {
+  width: 6.03rem;
+  height: 3.36rem;
+  margin: 0 auto;
+  background-color: #fff;
+  position: relative;
+  top: 0.17rem;
+  border-radius: 0.1rem;
+}
+section .a-1 .a-top {
+  width: 6.03rem;
+  height: 0.52rem;
+  border-bottom: 1px solid #dcdcdc;
+}
+section .a-1 .a-top .xian {
+  width: 0.04rem;
+  height: 0.27rem;
+  background-color: #50bbdb;
+  position: relative;
+  top: 0.13rem;
+  left: 0.14rem;
+  float: left;
+}
+section .a-1 .a-top p {
+  font-size: 0.24rem;
+  font-family: [STHeitiSC];
+  position: absolute;
+  top: 0.15rem;
+  left: 0.36rem;
+  display: block;
+  font-weight: bolder;
+}
+section .a-1 .a-bottom {
+  position: absolute;
+  left: 0.36rem;
+}
+section .a-1 .a-bottom ul li {
+  font-size: 0.24rem;
+  font-family: [STHeitiSC];
+  list-style: none;
+  height: 0.44rem;
+  line-height: 0.44rem;
+}
+section .a-1 .a-bottom ul li .xiu {
+  width: 0.77rem;
+  height: 0.35rem;
+  position: absolute;
+  left: 4.76rem;
+  top: 0.7rem;
+  text-align: center;
+  line-height: 0.35rem;
+  border: 1px solid #cccccc;
+  border-radius: 0.1rem;
+}
+section .a-1 .a-bottom ul li .xiu p {
+  font-size: 0.20rem;
+  color: #50bbdb;
+}
+section .a-1 .a-bottom ul li .shu {
+  width: 1.3rem;
+  position: relative;
+  top: -0.35rem;
+  left: 0.65rem;
+}
+section .a-1 .a-bottom ul li .shu .jian1 {
+  width: 0.35rem;
+  height: 0.29rem;
+  border: 1px solid #cecece;
+  background-color: #fff;
+  color: #8ccee5;
+  float: left;
+  text-align: center;
+  line-height: 0.29rem;
+  font-size: 0.16rem;
+}
+section .a-1 .a-bottom ul li .shu .text {
+  width: 0.51rem;
+  height: 0.29rem;
+  float: left;
+  border: 1px solid #cecece;
+  text-align: center;
+  line-height: 0.29rem;
+  font-size: 0.16rem;
+}
+section .a-1 .a-bottom ul li .shu .jia {
+  width: 0.35rem;
+  height: 0.29rem;
+  border: 1px solid #cecece;
+  background-color: #fff;
+  color: #8ccee5;
+  float: left;
+  text-align: center;
+  line-height: 0.29rem;
+  font-size: 0.16rem;
+}
+section .a-1 .a-bottom ul li .ren {
+  position: relative;
+  top: -0.7rem;
+  left: 2rem;
+  width: 1rem;
+}
+section .a-1 .a-bottom ul .pin1 {
+  width: 1.35rem;
+  display: block;
+  font-size: 0.18rem;
+  position: absolute;
+  top: 2rem;
+}
+section .a-1 .a-bottom ul .tong {
+  position: relative;
+  left: 0.1rem;
+  top: -0.6rem;
+}
+section .a-1 .a-bottom ul .bu {
+  position: relative;
+  left: 1.31rem;
+  top: -1.7rem;
+}
+section .a-1 .a-bottom ul .wt {
+  width: 0.5rem;
+  height: 0.24rem;
+  display: block;
+  font-size: 0.18rem;
+  position: relative;
+  left: 1.6rem;
+  top: -1.05rem;
+}
+section .a-1 .a-bottom ul .wb {
+  width: 3.5rem;
+  height: 0.24rem;
+  display: block;
+  font-size: 0.18rem;
+  position: relative;
+  left: 1.6rem;
+  top: -2.12rem;
+}
+section .a-1 .a-bottom ul .list1 {
+  margin-top: 0.14rem;
+}
+section .a-2 {
+  width: 6.03rem;
+  height: 3.36rem;
+  margin: 0 auto;
+  background-color: #fff;
+  position: relative;
+  top: 0.34rem;
+  border-radius: 0.1rem;
+}
+section .a-2 .a-top {
+  width: 6.03rem;
+  height: 0.52rem;
+  border-bottom: 1px solid #dcdcdc;
+}
+section .a-2 .a-top .xian {
+  width: 0.04rem;
+  height: 0.27rem;
+  background-color: #50bbdb;
+  position: relative;
+  top: 0.13rem;
+  left: 0.14rem;
+  float: left;
+}
+section .a-2 .a-top p {
+  font-size: 0.24rem;
+  font-family: [STHeitiSC];
+  position: absolute;
+  top: 0.15rem;
+  left: 0.36rem;
+  display: block;
+  font-weight: bolder;
+}
+section .a-2 .a-top .xxx {
+  position: absolute;
+  width: 1.16rem;
+  height: 0.09rem;
+  left: 0.3rem;
+  top: 0.43rem;
+}
+section .a-2 .a-top .xx {
+  font-size: 0.24rem;
+  font-family: [STHeitiSC];
+  position: absolute;
+  top: 0.15rem;
+  left: 1.8rem;
+  display: block;
+  font-weight: bolder;
+}
+section .a-2 .a-bottom {
+  position: absolute;
+  left: 0.36rem;
+}
+section .a-2 .a-bottom ul li {
+  width: 5.7rem;
+  font-size: 0.18rem;
+  font-family: [STHeitiSC];
+  list-style: none;
+  height: 0.45rem;
+  line-height: 0.45rem;
+}
+section .a-2 .a-bottom ul .list1 {
+  margin-top: 0.14rem;
+}
+section .a-3 {
+  width: 6.03rem;
+  height: 2.56rem;
+  margin: 0 auto;
+  background-color: #fff;
+  position: relative;
+  top: 0.54rem;
+  border-radius: 0.1rem;
+}
+section .a-3 .a-top {
+  width: 6.03rem;
+  height: 0.52rem;
+  border-bottom: 1px solid #dcdcdc;
+}
+section .a-3 .a-top .xian {
+  width: 0.04rem;
+  height: 0.27rem;
+  background-color: #50bbdb;
+  position: relative;
+  top: 0.13rem;
+  left: 0.14rem;
+  float: left;
+}
+section .a-3 .a-top p {
+  font-size: 0.24rem;
+  font-family: [STHeitiSC];
+  position: absolute;
+  top: 0.15rem;
+  left: 0.36rem;
+  display: block;
+  font-weight: bolder;
+}
+section .a-3 .a-bottom {
+  position: absolute;
+  left: 0.36rem;
+}
+section .a-3 .a-bottom ul li {
+  width: 5.4rem;
+  border-bottom: 1px solid #dcdcdc;
+  font-size: 0.24rem;
+  font-family: [STHeitiSC];
+  list-style: none;
+  height: 0.44rem;
+  line-height: 0.44rem;
+}
+section .a-3 .a-bottom ul li img {
+  width: 0.08rem;
+  height: 0.09rem;
+}
+section .a-3 .a-bottom ul li .xm {
+  outline: none;
+  border: 1px solid #fff;
+}
+section .a-3 .a-bottom ul li .sex {
+  width: 2rem;
+  height: 0.8rem;
+  position: relative;
+  left: 2rem;
+  top: -0.4rem;
+}
+section .a-3 .a-bottom ul li input {
+  outline: none;
+  border: 1px solid #fff;
+}
+section .a-4 {
+  width: 6.03rem;
+  height: 2.52rem;
+  margin: 0 auto;
+  background-color: #fff;
+  position: relative;
+  top: 0.95rem;
+  border-radius: 0.1rem;
+}
+section .a-4 .a-top {
+  width: 6.03rem;
+  height: 0.52rem;
+  border-bottom: 1px solid #dcdcdc;
+}
+section .a-4 .a-top .xian {
+  width: 0.04rem;
+  height: 0.27rem;
+  background-color: #50bbdb;
+  position: relative;
+  top: 0.13rem;
+  left: 0.14rem;
+  float: left;
+}
+section .a-4 .a-top p {
+  font-size: 0.24rem;
+  font-family: [STHeitiSC];
+  position: absolute;
+  top: 0.15rem;
+  left: 0.36rem;
+  display: block;
+  font-weight: bolder;
+}
+section .a-4 .a-top .p1 {
+  position: absolute;
+  left: 4.93rem;
+  color: #50bbdb;
+  font-size: 0.20rem;
+}
+section .a-4 .a-bottom {
+  position: absolute;
+  left: 0.36rem;
+}
+section .a-4 .a-bottom ul li {
+  width: 5.4rem;
+  border-bottom: 1px solid #dcdcdc;
+  font-size: 0.24rem;
+  font-family: [STHeitiSC];
+  list-style: none;
+  height: 0.95rem;
+  line-height: 0.95rem;
+}
+section .a-4 .a-bottom ul li .k1 {
+  position: absolute;
+  top: 0.2rem;
+  width: 0.21rem;
+  height: 0.24rem;
+  border: 1px solid #50bbdb;
+}
+section .a-4 .a-bottom ul li .k1 .duo {
+  width: 0.29rem;
+  height: 0.27rem;
+  position: absolute;
+  display: none;
+}
+section .a-4 .a-bottom ul li .k1-1 {
+  position: absolute;
+  top: 1.2rem;
+  width: 0.21rem;
+  height: 0.24rem;
+  border: 1px solid #50bbdb;
+}
+section .a-4 .a-bottom ul li .k1-1 .duo1 {
+  width: 0.29rem;
+  height: 0.27rem;
+  position: absolute;
+  display: none;
+}
+section .a-4 .a-bottom ul li .k2 {
+  width: 3.1rem;
+  height: 0.94rem;
+  position: absolute;
+  left: 0.48rem;
+}
+section .a-4 .a-bottom ul li .k2 p {
+  font-size: 0.22rem;
+  line-height: 0.4rem;
+}
+section .a-4 .a-bottom ul li .k3 {
+  width: 1rem;
+  position: absolute;
+  left: 4.8rem;
+  top: -0.25rem;
+}
+section .a-4 .a-bottom ul li .k3 a {
+  color: #000;
+  font-size: 0.20rem;
+  text-decoration: none;
+  color: #666666;
+}
+section .a-4 .a-bottom ul li .k3 p {
+  font-size: 0.20rem;
+  line-height: 0.4rem;
+  position: absolute;
+  top: 0.6rem;
+  left: -0.7rem;
+  color: #f98d0d;
+}
+section .a-4 .a-bottom ul li .k3 p span {
+  color: #949494;
+}
+section .a-4 .a-bottom ul li .k3-1 {
+  width: 1rem;
+  position: absolute;
+  left: 4.8rem;
+}
+section .a-4 .a-bottom ul li .k3-1 a {
+  color: #000;
+  font-size: 0.20rem;
+  text-decoration: none;
+  color: #666666;
+}
+section .a-4 .a-bottom ul li .k3-1 p {
+  font-size: 0.20rem;
+  line-height: 0.4rem;
+  position: absolute;
+  top: 0.6rem;
+  left: -0.7rem;
+  color: #f98d0d;
+}
+section .a-4 .a-bottom ul li .k3-1 p span {
+  color: #949494;
+}
+section .a-4 .a-bottom ul .kkk {
+  border: none;
+}
+section .check {
+  position: absolute;
+  left: 1.6rem;
+  top: 16.9rem;
+}
+section .bottom {
+  font-size: 0.20rem;
+  position: absolute;
+  top: 16.9rem;
+  left: 1.91rem;
+}
+section .a-5 {
+  width: 6.03rem;
+  height: 2.09rem;
+  margin: 0 auto;
+  background-color: #fff;
+  position: relative;
+  top: 0.74rem;
+  border-radius: 0.1rem;
+}
+section .a-5 .a-top {
+  width: 6.03rem;
+  height: 0.52rem;
+  border-bottom: 1px solid #dcdcdc;
+}
+section .a-5 .a-top .xian {
+  width: 0.04rem;
+  height: 0.27rem;
+  background-color: #50bbdb;
+  position: relative;
+  top: 0.13rem;
+  left: 0.14rem;
+  float: left;
+}
+section .a-5 .a-top p {
+  font-size: 0.24rem;
+  font-family: [STHeitiSC];
+  position: absolute;
+  top: 0.15rem;
+  left: 0.36rem;
+  display: block;
+  font-weight: bolder;
+}
+section .a-5 .a-top .p1 {
+  position: absolute;
+  left: 4.93rem;
+  color: #50bbdb;
+  font-size: 0.20rem;
+}
+section .a-5 .a-bottom {
+  position: absolute;
+  left: 0.36rem;
+}
+section .a-5 .a-bottom ul li {
+  width: 5.7rem;
+  font-size: 0.18rem;
+  font-family: [STHeitiSC];
+  list-style: none;
+  height: 0.45rem;
+  line-height: 0.45rem;
+  border-bottom: 1px solid #dcdcdc;
+}
+section .a-5 .a-bottom ul li input {
+  outline: none;
+  border: 1px solid #fff;
+}
+section .a-5 .a-bottom .jh {
+  width: 0.35rem;
+  height: 0.35rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 1rem;
+}
+footer {
+  width: 6.40rem;
+  height: 0.99rem;
+}
+footer p {
+  display: block;
+  position: relative;
+  top: 0.34rem;
+  left: 0.17rem;
+  font-size: 0.24rem;
+  color: #f0851a;
+  float: left;
+}
+footer button {
+  width: 2.35rem;
+  height: 0.66rem;
+  background-color: #50bbdb;
+  color: #fff;
+  position: relative;
+  top: -0.3rem;
+  left: 2.1rem;
+}
